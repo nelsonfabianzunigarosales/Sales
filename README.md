@@ -1,2 +1,5 @@
 # Sales
-primer proyecto de construcción de software 
+primer proyecto de construcción de software
+
+##Matriz de funcionalidad
+
